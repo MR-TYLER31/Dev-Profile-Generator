@@ -30,7 +30,6 @@ Number of users following
 * CSS
 * Javascript
 * Bootstrap
-* JQuery
 * Node.js
 * NPM: Inquier, Puppeteer, Axios
 ```
